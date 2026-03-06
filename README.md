@@ -34,12 +34,12 @@
 
 <h3 align="center">⬇ My Repositories</h3>
 <p align="center">
-  Check out my <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">projects</a> ⭐
+  Check out my <a href="#">projects</a> ⭐
 </p>
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/mohamed-ali-88154b374?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">LinkedIn</a> •
+  <a href="https://www.facebook.com/share/17yMfsUh95/"_blank">facebook</a> •
+  <a href="mailto:mo.ali.des@gmail.com">Email</a>
 </p>
